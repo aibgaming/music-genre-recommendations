@@ -1,4 +1,4 @@
-# music-genre-recommendations
+# Music Genre Recommendations
 Uses a Decision Tree Classifier to make music genre recommendations and visualize the tree created
 
 ```python
